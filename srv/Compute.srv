@@ -1,0 +1,6 @@
+geometry_msgs/Vector3 start
+geometry_msgs/Vector3 finish
+---
+std_msgs/Float32MultiArray shoulder
+std_msgs/Float32MultiArray elbow
+std_msgs/Float32MultiArray base
